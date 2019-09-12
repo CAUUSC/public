@@ -1,0 +1,11 @@
+D:\cshorp\bin\Debug\netcoreapp2.1\cshorp.deps.json
+D:\cshorp\bin\Debug\netcoreapp2.1\cshorp.runtimeconfig.json
+D:\cshorp\bin\Debug\netcoreapp2.1\cshorp.runtimeconfig.dev.json
+d:\cshorp\bin\Debug\netcoreapp2.1\cshorp.dll
+d:\cshorp\bin\Debug\netcoreapp2.1\cshorp.pdb
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.csprojAssemblyReference.cache
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.csproj.CoreCompileInputs.cache
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.AssemblyInfoInputs.cache
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.AssemblyInfo.cs
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.dll
+d:\cshorp\obj\Debug\netcoreapp2.1\cshorp.pdb
