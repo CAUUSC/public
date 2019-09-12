@@ -7,7 +7,7 @@ namespace cshorp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int a= 33;
+            int a= 3333333;
             Console.WriteLine(a);
         }
     }
